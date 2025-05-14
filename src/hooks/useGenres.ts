@@ -11,6 +11,6 @@ export interface Genre {
 // const useGenres = () => useData<Genre>('/genres');
 
 // Fetch local static data
-const useGenres = () => ({ data: genres, isloading: false, error: null });
+const useGenres = () => ({ data: genres, isLoading: false, error: null });
 
 export default useGenres;

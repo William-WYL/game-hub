@@ -1,6 +1,7 @@
 Game Hub
 
 Game Hub is a modern, interactive video game discovery platform built with React and TypeScript, featuring smooth animations, email support, image zoom, and lazy-loaded content.
+
 🛠️ Tech Stack
 
     Frontend: React + TypeScript

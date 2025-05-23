@@ -1,6 +1,7 @@
 Game Hub
 
 Game Hub is a practice project focused on mastering React and TypeScript integration, along with modern web development tools. It serves as an interactive game discovery platform with essential features like search, filtering, and responsive UI.
+
 🎯 Project Focus
 
 This project is primarily for practicing:
@@ -16,6 +17,7 @@ This project is primarily for practicing:
     useRef for DOM access
 
     Custom hooks for reusable logic
+
 
 🛠️ Tech Stack
 Core Dependencies
